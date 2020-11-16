@@ -77,7 +77,7 @@ nav {
     
   }
   
-  .fa:hover {font-size: 30px;
+  .fa:hover {
      background: white;
     color: rgb(0, 0, 0);
     opacity: 1;
