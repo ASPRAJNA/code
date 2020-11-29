@@ -42,6 +42,10 @@ nav {
       width: 100px;
       height: 100px;
     }
+    .Activitiesphoto{
+      height: 200px;
+      width: 50%;
+    }
   }
 
   #contact {
@@ -123,4 +127,8 @@ nav {
     background-color: #014ed4;
   }
 
+}
+.Activitiesphoto{
+  height: 300px;
+  width: 50%;
 }
